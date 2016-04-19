@@ -1,0 +1,5 @@
+view_counters=0
+ipfw=/sbin/ipfw
+view_comment=0
+cluster_mode=0
+view_condition=1

@@ -1,0 +1,9 @@
+ipnat_conf=/etc/ipf/ipnat.conf
+ipf=ipf
+ipfstat=ipfstat
+view_comment=0
+cluster_nat=1
+ipnat=ipnat
+view_condition=1
+cluster_mode=0
+ipf_conf=/etc/ipf/ipf.conf

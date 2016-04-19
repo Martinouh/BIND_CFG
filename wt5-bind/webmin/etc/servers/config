@@ -1,0 +1,11 @@
+show_ip=0
+scan_time=5
+show_status=1
+display_mode=0
+resolve=1
+max_servers=100
+deffast=2
+capath=/usr/share/ca-certificates
+sort_mode=0
+groups_dir=/etc/cluster/groups
+deflink=0

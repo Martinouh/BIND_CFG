@@ -1,0 +1,16 @@
+$ttl 38400
+wt5.ephec-ti.be.	IN	SOA	9a2f1b335aff. HE201181.students.ephec.be. (
+			1460384795
+			10800
+			3600
+			604800
+			38400 )
+wt5.ephec-ti.be.	IN	NS	9a2f1b335aff.
+ns.wt5.ephec-ti.be.	IN	A	51.255.42.238
+www.wt5.ephec-ti.be.	IN	A	51.254.212.96
+b2b.wt5.ephec-ti.be.	IN	A	51.254.212.96
+intranet.wt5.ephec-ti.be.	IN	A	51.254.212.96
+wt5.ephec-ti.be.	IN	A	51.254.212.96
+mail.wt5.ephec-ti.be.	IN	A	51.255.42.238
+mail.wt5.ephec-ti.be.	IN	MX	1 wt5.ephec-ti.be
+mail.wt5.ephec-ti.be.	IN	PTR	51.255.42.238
